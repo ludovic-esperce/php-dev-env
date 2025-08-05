@@ -8,6 +8,8 @@ L'objectif est de pouvoir installer les outils pour qu'ils soient accessibles au
 
 Ceci permettra notamment **d'initaliser** et **démarrer** des projets basés sur des fichiers de configuration `composer.json` comme [celui-ci](https://github.com/afpa-learning/mvc-example).
 
+---
+
 ## Étape 1 : Installation de XAMPP
 
 1. **Télécharger XAMPP**
@@ -21,6 +23,8 @@ Ceci permettra notamment **d'initaliser** et **démarrer** des projets basés su
 3. **Lancer XAMPP**
    - Ouvrez le panneau de contrôle XAMPP.
    - Démarrez les services Apache et MySQL.
+
+---
 
 ## Étape 2 : Paramétrage des variables d'environnement
 
@@ -40,6 +44,7 @@ Ceci est fait afin de pouvoir appeler `php` ou même `composer` depuis n'importe
      ```sh
      php --version
      ```
+---
 
 ## Étape 3 : Installation de Composer
 
@@ -68,8 +73,9 @@ Il permet de :
      ```sh
      composer --version
      ```
+---
 
-## Étape 5 : Initialisation d'un projet avec Composer
+## Initialisation d'un projet avec Composer
 
 1. **Créer un nouveau projet**
    - Ouvrez une nouvelle fenêtre de terminal.
