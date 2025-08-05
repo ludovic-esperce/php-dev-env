@@ -4,7 +4,9 @@ Cette procédure vous permettra de mettre en place un environnement de développ
 - XAMPP (Apache + MariaDB + PHP + Perl) qui intègre notamment un serveur HTTP de développement ;
 - composer qui est le gestionnaire de dépendance des projets PHP
 
-L'objectif 
+L'objectif est de pouvoir installer les outils pour qu'ils soient accessibles au sein d'un terminal.
+
+Ceci permettra notamment **d'initaliser** et **démarrer** des projets basés sur des fichiers de configuration `composer.json` comme [celui-ci](https://github.com/afpa-learning/mvc-example).
 
 ## Étape 1 : Installation de XAMPP
 
